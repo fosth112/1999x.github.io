@@ -1,0 +1,5 @@
+{
+  "name": "AutoLoader Command",
+  "description": "A dashboard to manage application versions and generate the Python auto-update client script with stealth capabilities.",
+  "requestFramePermissions": []
+}
