@@ -1,0 +1,4 @@
+autoloader-command/node_modules/
+autoloader-command/dist/
+autoloader-command/.env.local
+.DS_Store
